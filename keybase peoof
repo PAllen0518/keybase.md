@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am pallen0518 on github.
+  * I am pdiddyanarchy (https://keybase.io/pdiddyanarchy) on keybase.
+  * I have a public key ASB7SaIvMGwxghUWq-eTpyXBqgVWH4v9-K1cr6zPYq1Okgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207b49a22f306c31821516abe793a725c1aa05561f8bfdf8ad5cafaccf62ad4e920a",
+      "host": "keybase.io",
+      "kid": "01207b49a22f306c31821516abe793a725c1aa05561f8bfdf8ad5cafaccf62ad4e920a",
+      "uid": "6dccc89c420c9653263290ebb9f9fc19",
+      "username": "pdiddyanarchy"
+    },
+    "merkle_root": {
+      "ctime": 1610378128,
+      "hash": "adb075e8e02bbab41d4eca0a87fb95ed16ecf1d0de25eda78072be1e053cd284700c22ccd47831ef1b03b716f8af45c41f6c855a8199a3e05a66e200a67a6308",
+      "hash_meta": "3de37b2750840b1290e51fb730a3a474f62573013dbb7e18e35dbbcd8bd12678",
+      "seqno": 18694354
+    },
+    "service": {
+      "entropy": "ZSmccNvM6EDI4vQuuzt6bgfh",
+      "name": "github",
+      "username": "pallen0518"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1610378195,
+  "expire_in": 504576000,
+  "prev": "2c32f5a7af43b4455fc9cfa73cdcba4d344ab52c5b70480fe51a37fa4f80ee48",
+  "seqno": 31,
+  "tag": "signature"
+}
+```
+
+with the key [ASB7SaIvMGwxghUWq-eTpyXBqgVWH4v9-K1cr6zPYq1Okgo](https://keybase.io/pdiddyanarchy), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEge0miLzBsMYIVFqvnk6clwaoFVh+L/fitXK+sz2KtTpIKp3BheWxvYWTESpcCH8QgLDL1p69DtEVfyc+nPNy6TTRKtSxbcEgP5Ro3+k+A7kjEIM9bobK5QsqzEbOFD8Lj/yHUiFUX2Tg2ypveLlvveVupAgHCo3NpZ8RAeJ6hTxoIUsgy8ryB4YXUeGDGYwZdmj2nGlALP+BOe1zIo1gi0L3A24gql3zWA9hbE+dHdS5fFuqFGC7TmoN/B6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFreVeiNbrhljd2cvgtNtsDMiI+nXU4qILAANpXMCT4Xo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/pdiddyanarchy
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id pdiddyanarchy
+```
